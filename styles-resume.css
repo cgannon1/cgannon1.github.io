@@ -1,0 +1,232 @@
+.header{
+  background-color: #747578;
+}
+
+#name{
+  font: "Montserrat", sans-serif;
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  color: #D4F5F5;
+}
+
+.flower{
+  width: 30px;
+}
+
+.background{
+  background-color: #93B7BE;
+  width: 100%;
+  height: 2200px;
+}
+
+.background-direction{
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+    color: #554348;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 2pt;
+    text-align: center;
+    font-size: 75px;
+}
+
+.resume-images{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  align-items: center;
+}
+
+#image1{
+  width: 50%;
+  height: 400px;
+}
+
+#image2{
+  width: 50%;
+  height: 425px;
+}
+
+.social{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.employer-date{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.tabs{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+#About{
+  border: solid;
+  border-color: #93B7BE;
+}
+
+#Work{
+  border: solid;
+  border-color: #93B7BE;
+}
+
+#Home{
+  border: solid;
+  border-color: #93B7BE;
+}
+
+
+img {
+    max-width: 300px;
+    width: 50%;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+h2{
+  color: #554348;
+  margin-left: auto;
+  border-style: solid;
+  background-color:#8C9A9E;
+  border-color: #747578;
+}
+
+#header {
+  text-align: center;
+  border-bottom: 1px solid #999;
+  width: 70%;
+  margin: 0 auto 20px;
+  font-family: "Noto Serif", serif;
+}
+
+  body {
+    font-family:
+  }
+
+  h2 {
+    margin-left: auto;
+    border-style:solid;
+    background-color:#324ea8
+    border-color:#324ea8
+  }
+
+  h3{
+    font-weight: bold;
+    color: #554348;
+  }
+
+  h4{
+    color: #554348;
+  }
+
+  h5{
+    color: #554348;
+  }
+
+  p{
+    color: #554348;
+  }
+
+#social ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#social ul li {
+  display: inline-block;
+}
+
+.highlight {
+  color: white;
+  background-color: #324ea8
+}
+
+.tabs{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  font-size: 20px;
+}
+
+#Home{
+  border: solid;
+  border-color: #747578;
+  background-color: #747578;
+  color: #D4F5F5;
+}
+
+#About{
+  border: solid;
+  border-color: #747578;
+  background-color: #747578;
+  color: #D4F5F5;
+}
+
+#Work{
+  border: solid;
+  border-color: #747578;
+  background-color: #747578;
+  color: #D4F5F5;
+}
+
+.div.d{
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.div.e{
+  line-height: 0px;
+}
+
+#education{
+  list-style: none;
+  color: #554348;
+}
+
+#skills{
+  color: #554348;
+}
+
+/*color palette here*/
+
+#color1{
+  color: #93B7BE;
+  background-color: #93B7BE;
+  width: 50%;
+  height: 150px;
+}
+
+#color2{
+  color: #554348;
+  width: 50%;
+}
+
+#color3{
+  color: #D4F5F5;
+}
+
+#color4{
+  color:#8C9A9E;
+}
+
+#color5{
+  color: #747578;
+}
+
+
+/*font-family: 'Montserrat', ;
+font-family: 'Noto Serif', ; */
